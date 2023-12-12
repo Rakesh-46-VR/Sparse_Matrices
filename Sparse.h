@@ -1,6 +1,3 @@
-#include <stdlib.h>
-#include <stdio.h>
-
 /*
 Triplet form of representation of a sparse matrix :-
 Sparse element structure containing 3 integer members - row, column and value.
